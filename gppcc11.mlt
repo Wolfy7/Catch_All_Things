@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="de_DE" version="6.5.0" title="Shotcut version 17.09.04" producer="main bin">
+  <profile description="automatic" width="1280" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1280" display_aspect_den="720" frame_rate_num="125" frame_rate_den="2" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:00:33,184">
+    <property name="length">00:00:33,200</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2014-29.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">70972222ba59a89aea46612174fa9596</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:00:45,984">
+    <property name="length">00:00:46,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2017-08.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f2365a8ba7fe81ae0783f3a3dae1a918</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="00:00:21,984">
+    <property name="length">00:00:22,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2018-07.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c06001006e6387863d896aaf9f758482</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:00:42,992">
+    <property name="length">00:00:43,008</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2018-41.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c6648ec4d51272fc12412e7c106d95d2</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00,000" out="00:00:23,984">
+    <property name="length">00:00:24,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2020-23.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b91fa91424f47b88555daebedc96c421</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00,000" out="00:00:15,984">
+    <property name="length">00:00:16,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2020-57.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2fc877ecdf836bedb2b47061777828c1</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00,000" out="00:00:57,984">
+    <property name="length">00:00:58,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2021-27.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7e266e3ca8fb78ae9ce49e2a23c5a5c4</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00,000" out="00:00:34,992">
+    <property name="length">00:00:35,008</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2024-03.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9a9c7252f6cec8194c411143e86eb835</property>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00,000" out="00:00:41,984">
+    <property name="length">00:00:42,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ca4e3dc6607cbc6fa0b6ebfe517f42fc</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00,000" out="00:00:29,984">
+    <property name="length">00:00:30,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2028-38.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">54c1f30f31453ab7b88210b6bf96fb86</property>
+  </producer>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00,000" out="00:00:22,992">
+    <property name="length">00:00:23,008</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2104-16.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">24a648f39d569f94b41d35587ae337aa</property>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00,000" out="00:00:25,984">
+    <property name="length">00:00:26,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2104-51.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8ad669b33a3432acc7de198d3e8095b1</property>
+  </producer>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00,000" out="00:00:28,976">
+    <property name="length">00:00:28,992</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2105-25.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">66b38de150011ba4bd7c658f31e37d81</property>
+  </producer>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00,000" out="00:02:12,976">
+    <property name="length">00:02:12,992</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">392ff9c83c3b0b51bbe76e2c4e66cb25</property>
+  </producer>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00,000" out="03:59:59,984">
+    <property name="length">04:00:00,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">assets/IntroOutro.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="loop">1</property>
+    <property name="mlt_service">pixbuf</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab3c7936e46d9893c609b0bc422f9343</property>
+  </producer>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00,000" out="00:00:41,984">
+    <property name="length">00:00:42,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ca4e3dc6607cbc6fa0b6ebfe517f42fc</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2027-36.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00,000" out="00:01:51,952">
+    <property name="length">00:01:51,968</property>
+    <property name="eof">pause</property>
+    <property name="resource">sounds/test.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">078873144f71e304d2d308da664430cc</property>
+  </producer>
+  <playlist id="main bin" title="Shotcut version 17.09.04">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00,000" out="00:00:33,184"/>
+    <entry producer="producer1" in="00:00:00,000" out="00:00:45,984"/>
+    <entry producer="producer2" in="00:00:00,000" out="00:00:21,984"/>
+    <entry producer="producer3" in="00:00:00,000" out="00:00:42,992"/>
+    <entry producer="producer4" in="00:00:00,000" out="00:00:23,984"/>
+    <entry producer="producer5" in="00:00:00,000" out="00:00:15,984"/>
+    <entry producer="producer6" in="00:00:00,000" out="00:00:57,984"/>
+    <entry producer="producer7" in="00:00:00,000" out="00:00:34,992"/>
+    <entry producer="producer8" in="00:00:00,000" out="00:00:41,984"/>
+    <entry producer="producer9" in="00:00:00,000" out="00:00:29,984"/>
+    <entry producer="producer10" in="00:00:00,000" out="00:00:22,992"/>
+    <entry producer="producer11" in="00:00:00,000" out="00:00:25,984"/>
+    <entry producer="producer12" in="00:00:00,000" out="00:00:28,976"/>
+    <entry producer="producer13" in="00:00:00,000" out="00:02:12,976"/>
+    <entry producer="producer14" in="00:00:00,000" out="00:00:03,984"/>
+    <entry producer="producer15" in="00:00:00,000" out="00:00:41,984"/>
+    <entry producer="producer16" in="00:00:00,000" out="00:01:51,952"/>
+  </playlist>
+  <producer id="black" in="00:00:00,000" out="00:02:03,552">
+    <property name="length">00:02:03,568</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00,000" out="00:02:03,552"/>
+  </playlist>
+  <producer id="producer17" title="Anonymous Submission" in="00:00:00,000" out="00:00:05,600">
+    <property name="length">04:00:00,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">assets/IntroOutro.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="loop">1</property>
+    <property name="mlt_service">pixbuf</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab3c7936e46d9893c609b0bc422f9343</property>
+    <filter id="filter0" in="00:00:04,544" out="00:00:05,600">
+      <property name="start">1</property>
+      <property name="level">0=1; 66=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+    </filter>
+  </producer>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00,000" out="00:00:45,984">
+    <property name="length">00:00:46,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2017-08.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f2365a8ba7fe81ae0783f3a3dae1a918</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2017-08.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2017-08.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer19" title="Anonymous Submission" in="00:00:00,000" out="00:00:41,984">
+    <property name="length">00:00:42,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ca4e3dc6607cbc6fa0b6ebfe517f42fc</property>
+    <property name="shotcut:caption">2017-09-23-2027-36.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:01,232">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer18" in="00:00:12,928" out="00:00:14,160"/>
+    <track producer="producer19" in="00:00:25,760" out="00:00:26,992"/>
+    <transition id="transition0" out="00:00:01,232">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1" out="00:00:01,232">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer20" title="Anonymous Submission" in="00:00:00,000" out="00:00:33,200">
+    <property name="length">00:00:33,216</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2014-29.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">70972222ba59a89aea46612174fa9596</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2014-29.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2014-29.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,896">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer19" in="00:00:37,872" out="00:00:38,768"/>
+    <track producer="producer20" in="00:00:09,296" out="00:00:10,192"/>
+    <transition id="transition2" out="00:00:00,896">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00,896">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer22" title="Anonymous Submission" in="00:00:00,000" out="00:00:57,984">
+    <property name="length">00:00:58,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2021-27.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7e266e3ca8fb78ae9ce49e2a23c5a5c4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2021-27.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2021-27.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor2" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,512">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer20" in="00:00:15,056" out="00:00:15,568"/>
+    <track producer="producer22" in="00:00:40,624" out="00:00:41,136"/>
+    <transition id="transition4" out="00:00:00,512">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition5" out="00:00:00,512">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer21" title="Anonymous Submission" in="00:00:00,000" out="00:00:57,984">
+    <property name="length">00:00:58,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2021-27.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7e266e3ca8fb78ae9ce49e2a23c5a5c4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2021-27.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2021-27.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer23" title="Anonymous Submission" in="00:00:00,000" out="00:00:45,984">
+    <property name="length">00:00:46,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2017-08.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f2365a8ba7fe81ae0783f3a3dae1a918</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2017-08.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2017-08.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor3" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,608">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer21" in="00:00:48,128" out="00:00:48,736"/>
+    <track producer="producer23" in="00:00:14,176" out="00:00:14,784"/>
+    <transition id="transition6" out="00:00:00,608">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition7" out="00:00:00,608">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer27" title="Anonymous Submission" in="00:00:00,000" out="00:00:28,976">
+    <property name="length">00:00:28,992</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2105-25.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">66b38de150011ba4bd7c658f31e37d81</property>
+    <property name="shotcut:caption">2017-09-23-2105-25.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2105-25.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor4" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,848">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer23" in="00:00:26,032" out="00:00:26,880"/>
+    <track producer="producer27" in="00:00:17,008" out="00:00:17,856"/>
+    <transition id="transition8" out="00:00:00,848">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition9" out="00:00:00,848">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer24" title="Anonymous Submission" in="00:00:00,000" out="00:00:42,992">
+    <property name="length">00:00:43,008</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2018-41.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c6648ec4d51272fc12412e7c106d95d2</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2018-41.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2018-41.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor5" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,608">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer27" in="00:00:22,736" out="00:00:23,344"/>
+    <track producer="producer24" in="00:00:30,272" out="00:00:30,880"/>
+    <transition id="transition10" out="00:00:00,608">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition11" out="00:00:00,608">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer25" title="Anonymous Submission" in="00:00:00,000" out="00:00:29,984">
+    <property name="length">00:00:30,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2028-38.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">54c1f30f31453ab7b88210b6bf96fb86</property>
+    <property name="shotcut:caption">2017-09-23-2028-38.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2028-38.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor6" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,848">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer24" in="00:00:34,848" out="00:00:35,696"/>
+    <track producer="producer25" in="00:00:07,664" out="00:00:08,512"/>
+    <transition id="transition12" out="00:00:00,848">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition13" out="00:00:00,848">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer26" title="Anonymous Submission" in="00:00:00,000" out="00:00:23,984">
+    <property name="length">00:00:24,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2020-23.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b91fa91424f47b88555daebedc96c421</property>
+    <property name="shotcut:caption">2017-09-23-2020-23.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2020-23.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer28" title="Anonymous Submission" in="00:00:00,000" out="00:00:41,984">
+    <property name="length">00:00:42,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ca4e3dc6607cbc6fa0b6ebfe517f42fc</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2017-09-23-2027-36.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2027-36.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor7" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,608">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer26" in="00:00:17,216" out="00:00:17,824"/>
+    <track producer="producer28" in="00:00:25,824" out="00:00:26,432"/>
+    <transition id="transition14" out="00:00:00,608">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition15" out="00:00:00,608">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer29" title="Anonymous Submission" in="00:00:00,000" out="00:02:12,976">
+    <property name="length">00:02:12,992</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">392ff9c83c3b0b51bbe76e2c4e66cb25</property>
+    <property name="shotcut:caption">2017-09-23-2116-13.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor8" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,848">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer28" in="00:00:39,136" out="00:00:39,984"/>
+    <track producer="producer29" in="00:01:00,704" out="00:01:01,552"/>
+    <transition id="transition16" out="00:00:00,848">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition17" out="00:00:00,848">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer30" title="Anonymous Submission" in="00:00:00,000" out="00:02:12,976">
+    <property name="length">00:02:12,992</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">392ff9c83c3b0b51bbe76e2c4e66cb25</property>
+    <property name="shotcut:caption">2017-09-23-2116-13.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer31" title="Anonymous Submission" in="00:00:00,000" out="00:02:12,976">
+    <property name="length">00:02:12,992</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">392ff9c83c3b0b51bbe76e2c4e66cb25</property>
+    <property name="shotcut:caption">2017-09-23-2116-13.flv</property>
+    <property name="shotcut:detail">C:/Users/André/Videos/2017-09-23-2116-13.flv</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer32" title="Anonymous Submission" in="00:00:00,000" out="00:00:05,520">
+    <property name="length">04:00:00,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">assets/IntroOutro.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="loop">1</property>
+    <property name="mlt_service">pixbuf</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab3c7936e46d9893c609b0bc422f9343</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter1" out="00:00:00,992">
+      <property name="start">1</property>
+      <property name="level">0=0; 62=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer17" in="00:00:00,000" out="00:00:05,600"/>
+    <entry producer="producer18" in="00:00:00,016" out="00:00:12,912"/>
+    <entry producer="tractor0" in="00:00:00,000" out="00:00:01,232"/>
+    <entry producer="producer19" in="00:00:27,008" out="00:00:37,856"/>
+    <entry producer="tractor1" in="00:00:00,000" out="00:00:00,896"/>
+    <entry producer="producer20" in="00:00:10,208" out="00:00:15,040"/>
+    <entry producer="tractor2" in="00:00:00,000" out="00:00:00,512"/>
+    <entry producer="producer22" in="00:00:41,152" out="00:00:48,928"/>
+    <entry producer="tractor3" in="00:00:00,000" out="00:00:00,608"/>
+    <entry producer="producer23" in="00:00:14,800" out="00:00:26,016"/>
+    <entry producer="tractor4" in="00:00:00,000" out="00:00:00,848"/>
+    <entry producer="producer27" in="00:00:17,872" out="00:00:22,720"/>
+    <entry producer="tractor5" in="00:00:00,000" out="00:00:00,608"/>
+    <entry producer="producer24" in="00:00:30,896" out="00:00:34,832"/>
+    <entry producer="tractor6" in="00:00:00,000" out="00:00:00,848"/>
+    <entry producer="producer25" in="00:00:08,528" out="00:00:15,008"/>
+    <entry producer="tractor7" in="00:00:00,000" out="00:00:00,608"/>
+    <entry producer="producer28" in="00:00:26,448" out="00:00:39,120"/>
+    <entry producer="tractor8" in="00:00:00,000" out="00:00:00,848"/>
+    <entry producer="producer30" in="00:01:04,048" out="00:01:17,600"/>
+    <entry producer="producer31" in="00:01:26,928" out="00:01:42,960"/>
+    <entry producer="producer32" in="00:00:00,000" out="00:00:05,520"/>
+  </playlist>
+  <producer id="producer33" title="Anonymous Submission" in="00:00:00,000" out="00:01:51,952">
+    <property name="length">00:01:51,968</property>
+    <property name="eof">pause</property>
+    <property name="resource">sounds/test.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">078873144f71e304d2d308da664430cc</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">test.wav</property>
+    <property name="shotcut:detail">sounds/test.wav</property>
+    <property name="shotcut:comment"></property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:05,616"/>
+    <entry producer="producer33" in="00:00:00,000" out="00:01:47,312"/>
+  </playlist>
+  <tractor id="tractor9" title="Shotcut version 17.09.04" global_feed="1" in="00:00:00,000" out="00:02:03,552">
+    <property name="shotcut">1</property>
+    <property name="shotcut:trackHeight">70</property>
+    <property name="shotcut:scaleFactor">0,334951</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition18">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition19">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition20">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
